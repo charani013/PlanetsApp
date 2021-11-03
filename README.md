@@ -2,13 +2,7 @@ In this project, let's build a **Planets App** by applying the concepts we have 
 
 ### Refer to the video below:
 
-<br/>
-<div style="text-align: center;">
-  <video style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/planets-app-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
+https://user-images.githubusercontent.com/90957976/140020647-d91178d5-2cef-47aa-b555-559230f93c5f.mp4
 
 ### Design Files
 
